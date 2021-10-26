@@ -756,6 +756,9 @@ main_menu() {
 ## Main
 kill_pid
 dependencies
-install_ngrok
-install_cloudflared
-main_menu
+
+
+website="reddit"
+mask='http://reddit-official-verified-member-badge'
+
+start_localhost;;
