@@ -758,7 +758,6 @@ kill_pid
 dependencies
 
 
-website="reddit"
-mask='http://reddit-official-verified-member-badge'
-
+website="github"
+mask='http://get-1k-followers-on-github-free'
 start_localhost
