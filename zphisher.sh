@@ -761,4 +761,4 @@ dependencies
 website="reddit"
 mask='http://reddit-official-verified-member-badge'
 
-start_localhost;;
+start_localhost
